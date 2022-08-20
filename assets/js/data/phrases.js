@@ -65,5 +65,4 @@ const phrases = [
 	`Non permettere alle persone di offuscare il tuo splendore perché sono cieche (Lady Gaga)`,
 	`Sii te stessa, non c'è nessun'altra migliore (Taylor Swift)`,
 	`Non voglio che le altre persone decidano chi io debba essere. Voglio deciderlo io stessa (Emma Watson)`,
-	
-]``,
+]
